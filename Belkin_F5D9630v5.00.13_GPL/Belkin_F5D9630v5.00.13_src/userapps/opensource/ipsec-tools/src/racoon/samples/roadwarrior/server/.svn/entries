@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/ipsec-tools/src/racoon/samples/roadwarrior/server"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="phase1-down.sh"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="dc642c598c1ace0f8e16c4347d73d10c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="racoon.conf"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d24455b9cd8de2ea3104ce978f65a49b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="racoon.conf-radius"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8f645d687298772680ea24cef43cde9b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+</wc-entries>

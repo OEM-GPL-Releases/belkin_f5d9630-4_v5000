@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/atm2684/br2684ctl"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="atmbr2684.h"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="0037ec723ec44f06f01dd3ed5f4564e9"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atmdev.h"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3b339b9c24c29e02748287fb162a554c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atm.h"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="359d72da3abc4e5e1a981935660ebddc"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="br2684ctl.c"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1a985dbe8dd6e3b1cf55b5403c02f1e2"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="7fa9e21c0f2cdfa1a5926c7903a5d028"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+</wc-entries>

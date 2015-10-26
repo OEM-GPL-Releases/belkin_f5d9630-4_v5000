@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/certs"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="thawteCb.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="9dbedb7e623a515178b57c7e53248c7c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   name="demo"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="RegTP-5R.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1997636d0f03cb16827154f9a977b13c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="RegTP-6R.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="80937d1ee5481b0f79b063485d3344af"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="vsign1.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="aa8046451a2c5a1fbba287d64410f08b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="vsign3.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="9544f01ea0f5b640e5f78d36c10d914c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="thawteCp.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="13565a277532df79f7a1f758dba288f1"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   name="expired"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="wellsfgo.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f6692eb3d1a5d9eb0c08c3fbdc57f7ab"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="eng1.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="10a50340142fa855315ec04d6876ddee"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="eng2.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="744de2c4e13779e25692e342140e31dd"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="eng3.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="64df78dcb060557553fb5162af96e68e"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="vsignss.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="4811ba1c9418923947c86a50101f9690"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name=".0"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2058763af05bd53f530b3d6db136062c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="eng4.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d2cc1568d802ed1c361fdb591c4a88c1"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="eng5.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="994a96396ad6205d0212fc1f5b9f74e9"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+</wc-entries>

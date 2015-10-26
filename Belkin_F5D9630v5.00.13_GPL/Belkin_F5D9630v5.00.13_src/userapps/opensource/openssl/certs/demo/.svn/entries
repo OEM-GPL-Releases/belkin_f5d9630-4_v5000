@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/certs/demo"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="nortelCA.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1f159ec8b1935ae28909dcb3e2e94670"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="dsa-ca.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="96ce4a8d7545ccb56c30c746997e2b25"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="dsa-pca.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d038ef2b4ce2084ef25ef743d0107dbd"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="tjhCA.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="0c2f4cc5b7b38e14021b507cbd3bc4c1"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="timCA.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b1e1e5e11d877cecde5ddb14d3b6c7d7"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ca-cert.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e4160fea763261c38df744cb9b9fa10b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="pca-cert.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1eb08eee36c6142b60d3e38836ded59c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="vsigntca.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="deecf95f7afa35cb7ed16a78ab332c5a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+</wc-entries>

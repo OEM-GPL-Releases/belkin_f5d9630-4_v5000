@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/demos/sign"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="sig.txt"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="43dfa65035762a5c41463f677db7da83"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="sign.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b71c589ae8da898f8e327aab182a240d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="key.pem"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2f5d867c4572f12e93dcfc13e0ec2b49"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="fda5757d1a56e3d5b8db3162da3b7a57"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="cert.pem"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="82fcea1a20250c6943e1542f233bf848"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="sign.txt"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="a963b8f1e2d452c00ca9c4450302d5e1"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+</wc-entries>

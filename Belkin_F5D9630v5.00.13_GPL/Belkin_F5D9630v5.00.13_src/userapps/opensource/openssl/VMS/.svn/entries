@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/VMS"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="openssl_utils.com"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1c30d5ef809894aa4847906ca736dd2a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="test-includes.com"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="7624134f20b0cce73cff758fe0b2e3f2"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="socketshr_shr.opt"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="bc3cfab1997b3a6b08e69c19d2c2906f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="install.com"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="85c36370d20b37df5105a16c15ba0b21"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="WISHLIST.TXT"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="45c103df7bf42bfd4923a44585224fbb"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="TODO"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="37331ec250ab6795670a76a9755e5084"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="VMSify-conf.pl"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2b59d8b2a2ef11227377ef814272758b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="tcpip_shr_decc.opt"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="a7a85ee10e82d26bcc85f96c8a11e8bf"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ucx_shr_decc.opt"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="278621a3895573db4e39364899623e45"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="mkshared.com"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="a00b21fd907206db3ec4d046c1ac7410"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ucx_shr_decc_log.opt"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="65ba26672d3985478743bfb0589b6184"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ucx_shr_vaxc.opt"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b7ee50020043d80b0ee1cbbef417d724"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="multinet_shr.opt"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="45553a647dbbac7f627b78a9fedb0444"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+</wc-entries>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/demos/engines/zencod"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="hw_zencod.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3c3a7c20b7604c99841e96b9918b870a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="hw_zencod.ec"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="62d610fbc9a703538da56a1cb00109ac"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="hw_zencod.h"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="095a7c693a304a1d9234fd031712eb23"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="hw_zencod_err.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="62e7adaebb83a2973024995e004c3651"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c2d6799bd4231cc4bf641a6b417d8b4d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="hw_zencod_err.h"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="22885fa4120b4e73f34cdce062c03ff9"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+</wc-entries>

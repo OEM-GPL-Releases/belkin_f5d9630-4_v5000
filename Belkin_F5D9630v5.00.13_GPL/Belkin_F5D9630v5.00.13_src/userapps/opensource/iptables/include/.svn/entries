@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/iptables/include"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   name="linux"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="ip6tables.h"
+   text-time="2008-01-24T12:45:59.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="20dfe34a5161c52a227231747debd5c4"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:58.000000Z"/>
+<entry
+   name="libipq"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="iptables_common.h"
+   text-time="2008-01-24T12:45:59.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="01cd6e2d31cd252539b2084ca659de43"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:59.000000Z"/>
+<entry
+   name="libiptc"
+   kind="dir"/>
+<entry
+   name="libipulog"
+   kind="dir"/>
+<entry
+   name="libippool"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="iptables.h"
+   text-time="2008-01-24T12:45:59.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c9f26aa9949f875397298203e5e0032d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:59.000000Z"/>
+</wc-entries>

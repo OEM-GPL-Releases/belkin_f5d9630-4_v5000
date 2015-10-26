@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/iptables/libipq"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="ipq_message_type.3"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="810ee2dc0b6b7167d7748bfe1de612c6"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:57.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ipq_get_packet.3"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="277973cf43e8f33155a9d39a321f5294"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:57.000000Z"/>
+<entry
+   committed-rev="3"
+   name="libipq.3"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8a7bc7e7862ff67305b3930d83e0fc34"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:57.000000Z"/>
+<entry
+   committed-rev="3"
+   name="libipq.c"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="4fc2a480c6a1cc6b27205ddc6f5385ba"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:57.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ipq_perror.3"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3fd94f0cab729417360aaefc0e594f09"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:57.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ipq_read.3"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e46450ac5c9fc8206b02db289eafaacd"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:58.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ipq_set_verdict.3"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="269bf461f62c8e3bf5de7d0fb3b34ae1"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:58.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ipq_create_handle.3"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="80f859759cc102093fedfb02b30c45bd"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:58.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ipq_get_msgerr.3"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="277973cf43e8f33155a9d39a321f5294"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:58.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ipq_set_mode.3"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="7a5b7018b44119da17734077312810bf"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:58.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ipq_errstr.3"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="384c3c70b05236cf5ca9cfa2ef99f2ae"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:58.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="bbd3f7d127ac45744b8ce991bc59ef0b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:58.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ipq_destroy_handle.3"
+   text-time="2008-01-24T12:45:58.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="0b0a01f19b5b5c476f5c5e79c1e289e2"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:58.000000Z"/>
+</wc-entries>

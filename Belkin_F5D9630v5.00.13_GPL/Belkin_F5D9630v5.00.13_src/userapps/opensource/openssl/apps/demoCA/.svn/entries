@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/apps/demoCA"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="serial"
+   text-time="2008-01-24T12:46:05.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="a9f5d1907387cad302fa25893fa042a3"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:05.000000Z"/>
+<entry
+   committed-rev="3"
+   name="cacert.pem"
+   text-time="2008-01-24T12:46:05.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="324371bf8fba00ebe5328d8c850f55b0"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:05.000000Z"/>
+<entry
+   committed-rev="3"
+   name="index.txt"
+   text-time="2008-01-24T12:46:05.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="aa58079bdcdc1009d0351291cc4f3a18"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:05.000000Z"/>
+<entry
+   name="private"
+   kind="dir"/>
+</wc-entries>

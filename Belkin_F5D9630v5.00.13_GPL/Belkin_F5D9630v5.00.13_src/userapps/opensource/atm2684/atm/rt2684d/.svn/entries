@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/atm2684/atm/rt2684d"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="atmrt2684.h"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b2c727967303d99cd8a3dc1f87bf4bf0"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atmdev.h"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f0185badc2263de45994c92446d1e342"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ad2e183a1b5e1cd841cca3505697a9dc"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="rt2684d.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8b5ff6f6bb1bac30fc1bbbb0f4af8417"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+</wc-entries>

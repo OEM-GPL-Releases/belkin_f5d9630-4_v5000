@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/demos/easy_tls"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="test.c"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="cf86d54d928e7b4d8617753f5565c010"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="easy-tls.c"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="abfc6e09ca3aa05abc09d2031cd858dd"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="cacerts.pem"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="602c684a419b353224f6fe51b3a5f48a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="test.h"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ace1d969267a64fe9c6edb17e5af4675"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="easy-tls.h"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="88d299b96ac981dfea99348e9faea673"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="9361725ae5f7d415607ce96ff475f64e"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="a76ef81b18984debe3abb589f8a20238"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="cert.pem"
+   text-time="2008-01-24T12:46:08.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="95cabefb2fc480d540c0946d0ccff70f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+</wc-entries>

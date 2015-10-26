@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/demos/maurice"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="example3.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c26ff6ae5575c610e0780d6ff1f9f51f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="example4.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b3ae59d6f2636406664ef70ed9d5d233"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="loadkeys.h"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3613385ff63258bea4c82a6919c992f1"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="privkey.pem"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d0560dd693218f94787b0ff83deea4fa"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="loadkeys.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8d5b188a1fe99c07d542ba6351f5c4e1"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="81bf2fa671b1d894d50b5061ba9a8d85"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b4bc05e69ecb5b877f492ba11c74df87"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="cert.pem"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="4cf4dbdd4de6e1d558aae931d83a9f78"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="example1.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e1b63724b084336241897a84e4a3e14f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="example2.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2642388753d950858e04c73a80fd1380"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+</wc-entries>

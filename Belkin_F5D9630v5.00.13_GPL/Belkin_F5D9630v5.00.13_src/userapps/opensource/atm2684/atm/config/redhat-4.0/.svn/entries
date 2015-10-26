@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/atm2684/atm/config/redhat-4.0"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="atm"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="09ec9e790f9623537f64c5899db66741"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ifup-atm"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="9402c79384078f1c7dc16937485f8c53"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atm.init"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8483454716c42f740921297a72685e91"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atmsigd.conf"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="adfba630a8533ff899663fbaa87855db"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="65bfe0a06255f0f947c0470a85018d45"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c09541c7dd4c879683c851b617e0e161"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ifcfg-atm0"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="bdd5dbf5c5c00bf7077a5ff2cc9fdc58"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+</wc-entries>

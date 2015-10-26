@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/ipsec-tools"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="configure"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d4767845285aaaf2d370190921fb7a69"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile.in"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="946f7aace17e553a8a54289acb2f9412"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="config.log"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="339cd36e6f38fe454959151431a9ee8b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="package_version.h"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="73c59bbce6e02d84e92afdf6706c853d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="depcomp"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e181e2c8720c60522c4c4c981108e367"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ChangeLog"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3b0393bd8abc0c9c771282efd3bafb57"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="config.status"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f605142737b200feb5d8bf95f08e2b1a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="stamp-h1"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="91023a1d58d69b4916a8609882d782a8"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="config.guess"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="700b7c48c28272f0948f093a247abad6"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="package_version.h.in"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d39a7d9f2ae1d3e484e50fcd467f2434"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="config.h"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="5924289c11fe90a1bfe69a4e58926002"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="65953fd51b0c8496137ca14e4bf12833"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="config.sub"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="88781acf828adfe5f80640d8ba2aae9d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ltmain.sh"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8f9d63ac39a7516e1fd780b46bcbbd14"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   name="rpm"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="config.h.in"
+   text-time="2008-01-24T12:45:54.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="96636af5dd580e741ed83967da077dd2"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="configure.ac"
+   text-time="2008-01-24T12:45:54.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3ca952e356aa15e12aee92118f6b69a0"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="acracoon.m4"
+   text-time="2008-01-24T12:45:55.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="7df37fef2d3ce32b3db9da12b7707351"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="libtool"
+   text-time="2008-01-24T12:45:55.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="18d9c378260930992b99b8722073a7d9"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile.am"
+   text-time="2008-01-24T12:45:55.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b69f3a38e0f15ebb246522eb90e69e70"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="missing"
+   text-time="2008-01-24T12:45:55.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d1e9ac50f3bf49004061ea85f565cbce"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="NEWS"
+   text-time="2008-01-24T12:45:55.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="32c8f8dbdd91ddc2a9daa695733aa28d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="bootstrap"
+   text-time="2008-01-24T12:45:55.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="cd7f81b5c9a9a3b551c809299fd10bc2"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="aclocal.m4"
+   text-time="2008-01-24T12:45:55.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="fcf93ffda52471686456fefb2ea98961"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:45:55.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="a8c06bfa43c84e594f7471fd69059b83"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="install-sh"
+   text-time="2008-01-24T12:45:55.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="dbf44cd757322fdcb922457bcff2b892"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ylwrap"
+   text-time="2008-01-24T12:45:55.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="16b667e9716150cbf5a4fc64d6348030"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+</wc-entries>

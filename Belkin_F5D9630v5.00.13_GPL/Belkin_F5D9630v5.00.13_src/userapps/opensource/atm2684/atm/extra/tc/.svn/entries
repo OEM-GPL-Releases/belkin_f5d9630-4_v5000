@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/atm2684/atm/extra/tc"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="mkpatch"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="484b7a31d4d9195a28b054c726207be3"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d73855ecfc7c6f24f693cca39b1000fe"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+</wc-entries>

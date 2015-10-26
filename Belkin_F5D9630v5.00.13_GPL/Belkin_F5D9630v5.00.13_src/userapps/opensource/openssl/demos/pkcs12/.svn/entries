@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/demos/pkcs12"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="pkwrite.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="82c5019f086c924e9dfbd894cb6e1149"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="pkread.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="70be0f381a3ec46650ea4a9999424f7c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="794ba0c042b0aa324675112386504e26"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+</wc-entries>

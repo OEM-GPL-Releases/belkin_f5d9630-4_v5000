@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/ms"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="reqCA.ss"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="a57548a9ae7e909064155716103a1af4"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="testencce.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="dcfad5d757530fdc5491531e834f16b3"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="tpemce.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ff6c3f2a28789cafa5144ace27ef6af5"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="do_masm.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8cabd86fdee355dbd05b05d9aa1390e1"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="testpem.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="956ac842786796974c27582a38bf6ac3"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="mw.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c0ad54ea28a4ef52f33bc7370e499882"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="x86asm.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c4dfd4a25795fd1c3bb894551414fb89"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="testce.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2a754e6e52ed888c5c6aaa62726bdc23"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="reqU.ss"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="28306e8be06befafe15bf705fa20e05f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="keyU.ss"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ac73c9c8a33f1380ea0d1ab67826937f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="testssce.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="4a581a03950eefba629983b013c5ccc9"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="tencce.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2778793e29ab0066967536e8a44fd702"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="do_ms.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8534bbd4f4d56fa0c5acefb0b35171d4"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="testenc.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d85b57502c2973a5978ebc1e15413ff3"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="tpem.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="666c8b67e6ce735e3db55b9816463097"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="bcb4.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1bc0b0f5e4696c733f9bfe4526c392ce"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="keyCA.ss"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e57e20bb860ad4be165d7fc80fbfcb92"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="32all.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ebf1324f795b7bde93194b24bffa31d2"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="tlhelp32.h"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="7afd9f0f0f45a7ff67ab11a367757039"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="16all.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8445af3895cbf0243d99e8795d252822"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="test.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="431e5a1c111d37394b16779011b05c46"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="do_nasm.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="462ba7343bc862c968f0734c6cb8ce02"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="certCA.ss"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="9402b855feb72d8090fb1a46a3967233"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="cmp.pl"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="bdddb23f62c289d713d0cd7aac35cd88"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="testss.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="107c0ac3b6f2d9f0bdb3d1e8df01c6b2"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="mingw32.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2bc3ac9a305d6f982521244a4aacfc95"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="27a6c80775484a2702720068803baead"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="tenc.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="64e9b7eef98d7c42e9688277ea707bf6"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="testpemce.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="fd019998da33666658dbd58149098f2a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="certCA.srl"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f61f268e084d92948003576d3c17b5a0"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="req2CA.ss"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b8ff4438e2571a54302fbe2590e90d1f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name=".rnd"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f1350c9a5cdaa0bd8223f225a232392c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="certU.ss"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="29822b7cd3b14814d6bc6e3722db38ef"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="do_nt.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="fe443652b8e166b3622971f18c0f6619"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="speed32.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2d1c11d8fc00ea9601d6d32f26e7e81d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="speed16.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c07a9a738e5ab6f8f1730faee337dfda"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="testce2.bat"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="94d886d9c6bb2d392bece59fd781f207"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+</wc-entries>

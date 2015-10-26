@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/atm2684/pvc2684ctl"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="atmbr2684.h"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="dfbdd6347adc22ac1491eab123f704ef"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="pvc2684ctl.c"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ad652996fc582820f91ecc07ed6ed3b2"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atmrt2684.h"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b2c727967303d99cd8a3dc1f87bf4bf0"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="pvc2684d.c"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1c3f144f9b8fa009cfd390c64543c29d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="brpvc.h"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3d325078119723375aefd244bf509fb7"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atmdev.h"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="51b9b0e966b84e01dc3422b0be6fed9a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atm.h"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ffc4bc9041edb99c4991a6bd82cf2309"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c2b110f12433e9be947ffba648ae2af6"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+</wc-entries>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/atm2684/atm/config"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   name="redhat-4.0"
+   kind="dir"/>
+<entry
+   name="common"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="86352b36148432cdb3610d2c28ed03cc"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="dcdd1dd432cbf15be833c0df99b2a739"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+</wc-entries>

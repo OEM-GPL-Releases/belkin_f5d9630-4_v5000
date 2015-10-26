@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   name="ms"
+   kind="dir"/>
+<entry
+   name="certs"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="install.com"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="9ebdb924c25f32fc60757aee940d4113"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="INSTALL.WCE"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="a8eba10ed5ed3e6250c696500aa277e0"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README.ASN1"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b2ad79d37a6006b6f51ee64fbf689d2d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   name="bugs"
+   kind="dir"/>
+<entry
+   name="tools"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="README.ENGINE"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b86dd8e4d82a373069b5ba54045d1abe"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:04.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile.org"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="a10a46c3ae2f5418ec753badc478819c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:07.000000Z"/>
+<entry
+   name="apps"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="openssl.doxy"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="491b3bb8438f163ee83f978fbbc56c37"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   name="VMS"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="INSTALL"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="16a44a379f3b1376b0423c19e87f4c79"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="CHANGES.SSLeay"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="01de5231edb89c8f500d803f71462a1a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:10.000000Z"/>
+<entry
+   name="demos"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="CHANGES"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2c23828af471d3d9bddeea7e53980b7b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:10.000000Z"/>
+<entry
+   committed-rev="3"
+   name="INSTALL.VMS"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="0137e997342edb0045823c9a08c3c5ae"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:10.000000Z"/>
+<entry
+   committed-rev="3"
+   name="NEWS"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="21356762b2cc98a716c0518f98db956e"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:10.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="400866c14c513538e45cb78a6e602f76"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:10.000000Z"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   name="crypto"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="INSTALL.W32"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2a18d0220f7b72b4d863d8c4da216783"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:25.000000Z"/>
+<entry
+   committed-rev="3"
+   name="makevms.com"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="adb92bc189de4a8cf65ce2d51ddf8222"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:25.000000Z"/>
+<entry
+   name="times"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="Configure"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="174923a9470ddd49782005a9d505cd25"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:25.000000Z"/>
+<entry
+   committed-rev="3"
+   name="LICENSE"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="7931a1cc4482e8554c81ffffe2b0ec67"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:25.000000Z"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="PROBLEMS"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ddc118e8d34312607252add2334c1c05"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:25.000000Z"/>
+<entry
+   committed-rev="3"
+   name="e_os2.h"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c36c0d1cfd967ecca703af29bd08b6ad"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:25.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f73d4b24f8bec31a4fa4ef7949832ef1"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:25.000000Z"/>
+<entry
+   name="fips"
+   kind="dir"/>
+<entry
+   name="shlib"
+   kind="dir"/>
+<entry
+   name="ssl"
+   kind="dir"/>
+<entry
+   name="perl"
+   kind="dir"/>
+<entry
+   name="MacOS"
+   kind="dir"/>
+<entry
+   name="os2"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="config"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="aab58f7fb4d36df652a38a75cb60470d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:27.000000Z"/>
+<entry
+   committed-rev="3"
+   name="FAQ"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ff6cd5797bf98e9e235ae714ebe8a9b9"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:27.000000Z"/>
+<entry
+   committed-rev="3"
+   name="INSTALL.MacOS"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f9f0932b4a85c05cd43f3f6e47c0630f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:27.000000Z"/>
+<entry
+   committed-rev="3"
+   name="INSTALL.OS2"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b7f8994a12e8162d662773aafe78301f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:27.000000Z"/>
+<entry
+   committed-rev="3"
+   name="INSTALL.DJGPP"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="114e40018eaabe576cb9c37dccb0af73"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:27.000000Z"/>
+<entry
+   committed-rev="3"
+   name="e_os.h"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b9694516862dc539ce2d71176e857ebf"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:27.000000Z"/>
+<entry
+   committed-rev="3"
+   name="openssl.spec"
+   text-time="2008-01-24T12:46:28.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="bf22686c1126dbdbd6e492d27820e225"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:27.000000Z"/>
+<entry
+   name="util"
+   kind="dir"/>
+</wc-entries>

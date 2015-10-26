@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/demos/tunala"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="breakage.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1fd62d2df08943d97886d6f7cb02012a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="configure.in"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="5098c8af85aadfcc52e040b450505195"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:08.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ip.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="85ba9dbf0a2f53348a7c3319db6ea16e"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="buffer.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ea530c05f4fe38620213aaa02e2b13aa"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d7934b35a2ade8170bbece0f4191c7cb"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="sm.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="61294d041049c2fd9aa7263c2327f70b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="CA.pem"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f8a5763f107a7738b7930bb3d188c549"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="A-server.pem"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="7f8ac98250c6b04a7048a3c994fabb10"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="cb.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="daadfa6c9c9b1efa936d6a1f8555ca47"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="tunala.c"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="32c2fbd04512f77220b80aaa0f92d573"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="INSTALL"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="601d6b429fb9245b7e14dc9c98ade481"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="autogunk.sh"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="42fff8974a4e6b831ebe828ed4fa8aac"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile.am"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b146e2eee49b7df12bc179c6476ddb1c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="autoungunk.sh"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="531cd3d01ffaae33b7c0c0d83b2389da"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="tunala.h"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="17245d68c682a06e8190e81ef0a200b4"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="A-client.pem"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="4dc155cc553ba6f5c2e168cba6cd75f6"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:09.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="776f44044670fc220fe7468ff252960a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:09.000000Z"/>
+</wc-entries>

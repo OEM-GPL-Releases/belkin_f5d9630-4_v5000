@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/iptables"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="iptables-save.c"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="7ed40e72b929d1bf6ccc4012d6d25c75"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:56.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ip6tables-restore.8"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d3501ea6315b701a2ba3825c20cdd360"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:56.000000Z"/>
+<entry
+   name="libipq"
+   kind="dir"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="iptables.c"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="64d3313f268d15cc552c916a3aab7893"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:59.000000Z"/>
+<entry
+   name="libiptc"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="iptables-restore.8"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="5c8d9daac41277dd5018a637b8696729"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:59.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ip6tables-restore.c"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c6af658879b730cdc2edfb470b0de59f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:59.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ip6tables-save.8"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e0ceb2ed1659c373afeef14d00e172ab"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:59.000000Z"/>
+<entry
+   name="extensions"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="COMMIT_NOTES"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c5919c1d6b76720cb8d3e3cf457ad0df"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:59.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ip6tables-standalone.c"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="5605f91f5e4bc3be401c675db1417d68"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:59.000000Z"/>
+<entry
+   name="ippool"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="ip6tables.8.in"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e104e0d4de38b732d00174fb39e22ac7"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="TODO"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8a1f97cadbc3a7ffb62df44a60c4c46c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="iptables-restore.c"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="841a6ba7659ff77018d8ae906e6b5b99"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="iptables-save.8"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="75ff674afefdced53dc55865221b3c82"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ip6tables-save.c"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3c77afe31dc2fae87a4af5ab3a0d4796"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Rules.make"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="897601583db9f80e3d595170c3a38155"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="INSTALL"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f5d71d58716ead783f9d95f0985f6a75"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="INCOMPATIBILITIES"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e0c71c80ba269c146bacaae3438a1e01"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="COPYING"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8ca43cbc842c2336e835926c2166c28b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ip6tables.c"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8577cb70445d0a2fc3415945c32fbb0b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="iptables-standalone.c"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="48fc5594b228f71ebce47b03633526c6"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e53cebc9ffda2414a0c5fa6807dd7b53"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="CURRENT_ISSUES"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1ec9d7a543d2bfa3e06c4e735d1e51e9"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="iptables.8.in"
+   text-time="2008-01-24T12:46:00.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c51ee3916ff80b29efa0965b08940422"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+</wc-entries>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/demos/eay"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="base64.c"
+   text-time="2008-01-24T12:46:10.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="fddce8c350982fc7f7c26728d42000d6"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:10.000000Z"/>
+<entry
+   committed-rev="3"
+   name="loadrsa.c"
+   text-time="2008-01-24T12:46:10.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f9017ddff922ebbe38e828be3ac44ec2"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:10.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:10.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="6450c54c1d00ad19c67347cd87458170"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:10.000000Z"/>
+<entry
+   committed-rev="3"
+   name="conn.c"
+   text-time="2008-01-24T12:46:10.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="549caa728a220708d2f42dc4e3f64298"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:10.000000Z"/>
+</wc-entries>

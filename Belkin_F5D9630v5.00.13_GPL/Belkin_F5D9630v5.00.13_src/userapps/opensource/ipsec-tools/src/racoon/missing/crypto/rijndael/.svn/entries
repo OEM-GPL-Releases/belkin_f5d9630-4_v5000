@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/ipsec-tools/src/racoon/missing/crypto/rijndael"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="rijndael-api-fst.h"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="058fdd183b8a1b81b3e2ccbf226a80f7"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="boxes-fst.dat"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e74069b355b7576bc5930d2fdf6f8ac5"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="rijndael-alg-fst.c"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="18334a7900cc1b8d5186adc8bc65596a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="rijndael_local.h"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="073c703eb9b3d3cca93d547c1f35c73f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="rijndael-alg-fst.h"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="0fb67f9db75e02fb0a1a21bad3ccf0f4"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="rijndael-api-fst.c"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8aa89b46e3bc7f93e1b3a2d13227acb0"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="rijndael.h"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1db8f8fb7730f8aafd40a94b3be6bb9b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+</wc-entries>

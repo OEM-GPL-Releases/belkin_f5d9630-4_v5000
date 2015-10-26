@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/atm2684/atm/doc/bind-files"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="192.168.27"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="48f1daab5dd0136ad924f4a98e9d6042"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atm"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="5efab0e751967a95bea094330176d6de"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="127.0.0"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="31ed1ca7253dc30b74f23ffea357a593"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="named.conf"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2eb1674885cf3bce1e23e10d43b2de3f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atm-reverse"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="66ef1fd9091a97cb1b464e360a8deb1a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="resolv.conf"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="98bb4a616670fa5c6cc7011ccfe1b5c4"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+</wc-entries>

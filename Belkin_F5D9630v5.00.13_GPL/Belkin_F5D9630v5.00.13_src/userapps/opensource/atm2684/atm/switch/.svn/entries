@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/atm2684/atm/switch"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="route.c"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="4807fadfb39d15423977e9c615dc27d4"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="dispatch.c"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="59a52677c4659425c201e82fb9bd803b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="swc.h"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e87dcc6a5d13b0ad5ced54de29638f05"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="proto.c"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="edbdd708405d708dbc26ef3adf879f3d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="route.h"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3e1324d5075ec2f6971264fc7afd7907"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="dispatch.h"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f93dad20e5aba85c87574a39742efa69"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   name="tcp"
+   kind="dir"/>
+<entry
+   name="debug"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="cfg.l"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="4d3a3ed05781a216498a02aeb1edc284"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="proto.h"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="bf2c30b3baf1aee42fd8a9713971b7cf"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e7a667e571745fea8fea202171a7e020"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="relay.c"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="0a5f93fcbacf85f858c775a8e56e547c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="control.c"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="50512e65a210c460e8d91faaced9fdca"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="sig.c"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1f52773ba4c08f70a19eaa1129d7912d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="cfg.y"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f063d339472c13149839d05ec77fc267"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Rules.make"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1c6d092f4297ef7aa4f5c4ba2afd08d4"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="sig.h"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d0b2e00597ad27e88f233732ca5f88ae"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b8d911e4093d2e198c75feb632cf5435"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="swc.c"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="4a38d16d3999732ae651df950e8bde70"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   committed-rev="3"
+   name="fab.h"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="57159d361604cb489b55f86ef6586d63"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+</wc-entries>

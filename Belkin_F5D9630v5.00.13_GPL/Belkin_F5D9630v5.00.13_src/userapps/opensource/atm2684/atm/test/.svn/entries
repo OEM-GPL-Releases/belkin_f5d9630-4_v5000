@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/atm2684/atm/test"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="aping.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="4afc5d99f35f9aadc180de5e6fd2bee0"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="isp.h"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8423ed697c568b0879e12f088245b430"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="br.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ec455af0df5700652f75b85a490ffe51"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README.isp"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="4a184c508501bb3b0144ce6920643e4e"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="window.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="668a06ba48fc9782657174a0b9f6c6a2"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="bw.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="363a9bc72b3640705742fe61ffcc0169"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ttcp.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b45a002c3068df0d82da5238a06eb09f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="aread.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="0c44614922df6bc2677cb6dfbc0a1d12"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ispl.l"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f43afd15dce6b458bc4ba7b77c5e35ca"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="mkerrnos.pl"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="27c4a3a94494c8cd5af467628337783a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="align.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ddd598518b380803de0ae7ae50620cb4"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="isp.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="84dde17b5ff7811becc7d40823899c3a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="awrite.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3e9527ba40d50c0a000d670a756e9dea"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b1d2997f098171ab8bca216527df3131"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ispl.y"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ce22e518863d658f496b2e293685ac55"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+</wc-entries>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/atm2684/atm/sigd"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="trace.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1759679319d2068dd70ed68586655588"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="policy.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="808ae9b87693125f417862d7591f9a5d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="trace.h"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="545277606f95f219f7c410cdcc53628a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="proto.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b4f9ac5321107bf1681b95eb2228da3b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="policy.h"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="93420c7b59eef108833dedaa6ed385b0"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="io.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="9764dafb5a4551a2a32a5b1bc9f87134"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="cfg.l"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ae6dd82598b1fc2cdeb28e1f87d7ce2e"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="proto.h"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="078bb733594a2c67a6777ceb5bbc380b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="bbd54fd1b3ce6a8c1dbc33d661e0ca3b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="io.h"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ab8eb46dfddaa0a3001820fd588efe85"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atmsigd.8"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="cb4edf80c57e449d5fe0b0fbbc9eb5c9"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="kernel.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="84ad79520608c91a5756e2fade79b8b3"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="sap.c"
+   text-time="2008-01-24T12:46:01.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="6fde0fb107c20d8420a6db6a03764924"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="cfg.y"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="86a05ffbc8281f84e62cb6eac2623de7"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="timeout.c"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="70e86a653d2d7bca2f9675194936ff49"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="mkmess.pl"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="0edfaa1d01d6ea2a300ecc12ca7d7858"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atmsigd.c"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ebbca9713a7ad847dd7da1b98b9eb055"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="sap.h"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2f919dd9e600e7cbd080cc99e76ab917"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="timeout.h"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="61c00a474ed0366129a3ac069617ecfa"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="uni.c"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="115b08292af382c53d23ec0423fdebe2"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e2102aeeacbbd7588bd21079220b1abc"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="atmsigd.conf.4"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="344218c666ecb723bb4212d48f47729e"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+</wc-entries>

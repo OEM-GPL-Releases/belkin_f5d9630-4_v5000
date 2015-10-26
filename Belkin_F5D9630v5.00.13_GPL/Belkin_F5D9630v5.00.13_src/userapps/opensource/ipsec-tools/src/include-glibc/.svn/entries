@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/ipsec-tools/src/include-glibc"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="linux"
+   text-time="2008-01-24T12:45:52.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="02ed00cee99863c0b6c76b5fdc8fed03"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile.in"
+   text-time="2008-01-24T12:45:52.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b4c8c2edfbb62e553b8a462790ea6674"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name=".includes"
+   text-time="2008-01-24T12:45:52.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="glibc-bugs.h"
+   text-time="2008-01-24T12:45:52.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d94387e4fd4e046df94110f7b6f52969"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   name="net"
+   kind="dir"/>
+<entry
+   name="netinet"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="Makefile.am"
+   text-time="2008-01-24T12:45:52.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2406fcb3c5d2f0d9d20b48850a95a2c1"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:45:52.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="7ce7a67ddbf81ca512ceab9e101bf634"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   name="sys"
+   kind="dir"/>
+</wc-entries>

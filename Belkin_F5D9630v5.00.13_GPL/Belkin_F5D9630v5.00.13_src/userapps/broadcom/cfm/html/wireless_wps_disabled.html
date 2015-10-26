@@ -1,0 +1,103 @@
+<html>
+   <head>
+      <meta HTTP-EQUIV='Pragma' CONTENT='no-cache'>
+		 <link rel="stylesheet" href="main_router.css" type='text/css'>
+		 
+		<%ejGet("curLanguage")%>
+		<script language=Javascript src='language_us.js'></script>
+		<SCRIPT>assign_var();</SCRIPT>
+
+            <script language="javascript" src="util.js"></script>
+			<SCRIPT language=JavaScript src="showMenu.js"></SCRIPT>
+            <script language="javascript">
+<!-- hide
+strHtml='<title>'+wlm_1+' &gt; '+wlwps_1+'</title>';
+dw(strHtml);
+
+var autoup = '<%ejGet(autoUpgrade_flag)%>';
+
+if(autoup == '1')
+{
+	newwin=window.open("checkfw.html","Firmware","toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,width=395,height=200,resizable=0");
+	newwin.focus();
+}
+
+					
+function write_wps()
+{
+	with(document.forms[0])
+	{
+		document.write("<option value=\"0\">"+home_44+"</option>");
+		document.write("<option value=\"1\">"+home_43+"</option>");
+	}
+}
+
+function wps_mode_change()
+{
+	with(document.forms[0])
+	{
+		if(wps_mode.selectedIndex == 1)
+			window.location.href = 'wireless_wps_enabled.html';
+	}
+}
+
+function btnApply()
+{
+	var loc;
+	loc= 'wlwps.wl?WPS_State=0';
+   	var code = 'location="' + loc + '"';
+   	eval(code);
+}
+
+// done hiding -->
+      </script>
+   <title>Wireless &gt; Channel and SSID</title></head>
+   <body bgColor="#ffffff" leftMargin="0" topMargin="0" marginheight="0" marginwidth="0">
+         <form onSubmit='return false'>
+       <SCRIPT language=JavaScript>
+	var helpItem 	='WPS';
+	var menuSection	='WLAN';
+	var menuItem	='WPS';
+	var isAPmode = '<%ejGet(enblNat)%>';
+		
+	var wanStatus = '<%ejGetOther(isUp)%>';
+	showHead(wanStatus,helpItem);
+	showMenu(menuSection,menuItem,isAPmode)
+	</SCRIPT>  
+<TD class=head_bold width="90%" valign="top"><Br>
+            <b><font class="head_bold">&nbsp;&nbsp;<script>dw(wlm_1);</script> &gt; <script>dw(wlwps_1);</script></font></b>
+            <br><br>
+			
+      		<TABLE class=copy_1 cellSpacing=0 cellPadding=0 width=790  border=0>
+				
+				<Tr>
+					<td width="42"></td>
+					<Td width="748">
+						<Br>
+						<!--   WPS CONTENT BEGIN    -->					
+						<table width="587" border="0" cellpadding="4" cellspacing="0">				
+               				<tr>
+               				  <td width="217" class="copy_1"><B><script>dw(wlwps_1);</script></B></td>
+               					 <td td width="313" class="copy_1"><select name='wps_mode' onChange="wps_mode_change()"><script>write_wps()</script></select></td>
+               				</tr>
+							
+							<Tr>
+								<Td colspan="2" class="copy_1"><script>dw(wlwps_2);</script></Td>
+							</Tr>
+							
+							<Tr>
+								<Td colspan="2" align="right"><script>
+									var info ="<input type='button' style='height:22px;width:180px;' class='submitBtn' onClick='btnApply()' value='"+wd_10+"'>";										
+									dw(info);</script>								
+								</Td>
+							</Tr>
+				      </table>
+					    <!--   WPS CONTENT END    -->	
+						
+				  </Td>
+				</Tr>
+	</TABLE>
+            <br>
+         </TD></TR></TBODY></TABLE></TD></form>
+   </body>
+</html>

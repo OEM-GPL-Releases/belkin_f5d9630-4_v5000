@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/bugs"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="MS"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="98db26dc325f58347a317a511f613862"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="sslref.dif"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3317afe5c7c785daf83c665c895c95d7"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="alpha.c"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="7e03beb5e425ef048378d73a3ff246d4"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="dggccbug.c"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="777e2a3c21f835178eb90d2aa273394f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="sgiccbug.c"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="35eb75d01a8718a6d812b2374004530f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="SSLv3"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="c1b21861d84707beb4ea92828fdd9807"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="VC16.bug"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="6593747607574d7845feb592aff15a25"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="stream.c"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="1e2372c53f5bc3f8204a50ec74cb3fb8"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ultrixcc.c"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="4f56984a70865a5374fd9cb7ba4bf003"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+</wc-entries>

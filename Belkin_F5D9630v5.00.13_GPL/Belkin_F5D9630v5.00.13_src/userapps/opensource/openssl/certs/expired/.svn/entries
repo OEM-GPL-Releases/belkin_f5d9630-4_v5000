@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/certs/expired"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="ICE.crl"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="109e4e5364e7cb5c92cf86e506a4313d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ICE-CA.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="2e7cd93d9a1328dfd2e02d4f2581f6ed"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ICE-root.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="813f4d85713f6882e850b64105a1d5ec"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="RegTP-4R.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="68a75d70c429ff30e4a7c2971249e94f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="factory.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="6093c82422ccd65cdcdf16e05d9bfc91"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="vsign2.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="70865c8ace6396ea8596f8e50f6a1892"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="rsa-cca.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="9bc6d3157e59f38ac77870f8448b447d"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="vsign3.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ca6d0c227d0b03a533f596f0d83d89fa"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ICE-user.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="beb3adbfe2be1a24947cc6144d16c6c6"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="rsa-ssca.pem"
+   text-time="2008-01-24T12:46:03.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="6f813295eb64031bc35e597938f38cb2"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+</wc-entries>

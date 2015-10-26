@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/openssl/tools"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="c_rehash.in"
+   text-time="2008-01-24T12:46:04.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="d56e638d77a46c269332086a8d5e43f0"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="c_name"
+   text-time="2008-01-24T12:46:04.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e6828944a8b442b7a040405fbe3f9a1f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="c_hash"
+   text-time="2008-01-24T12:46:04.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="11612e0bac6e19e1bb35d038e691b72c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="c89.sh"
+   text-time="2008-01-24T12:46:04.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="dcee97a48985aabb1169412bbf90a307"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="c_issuer"
+   text-time="2008-01-24T12:46:04.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="7a5ec6cc06ca0d45332feb59a9aaaf1a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:03.000000Z"/>
+<entry
+   committed-rev="3"
+   name="c_rehash"
+   text-time="2008-01-24T12:46:04.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="eac0ca00fc9a2033152ec6408d489f6b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:04.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:04.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="fd1cbc6a1f2b10da01ab99adc479a8c5"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:04.000000Z"/>
+<entry
+   committed-rev="3"
+   name="c_info"
+   text-time="2008-01-24T12:46:04.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="45bbf2e1f1a5a2ff772ac81ecab10729"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:04.000000Z"/>
+</wc-entries>

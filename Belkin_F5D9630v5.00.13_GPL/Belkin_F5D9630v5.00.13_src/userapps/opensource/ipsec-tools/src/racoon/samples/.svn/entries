@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/ipsec-tools/src/racoon/samples"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="psk.txt.in"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f42a2efd32941ff33e88b0dea1731ddd"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="racoon.conf.sample"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="fa0651bdca900edc5d001a166f3c8a69"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="racoon.conf.sample-inherit"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f8da1e987da6b4fe93db1835a9bbff45"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="racoon.conf.sample-gssapi"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="b917e42afb7823fa82ca55d0bcb1580c"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:52.000000Z"/>
+<entry
+   committed-rev="3"
+   name="racoon.conf.sample-natt"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="fba14c05f01e93862f0f7d05b1870019"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="racoon.conf.in"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3a5274ff492451c3dc31b7f234de03c3"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   name="roadwarrior"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="psk.txt.sample"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8912f9ec996ab814f11c45064e80b749"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+<entry
+   committed-rev="3"
+   name="racoon.conf.sample-plainrsa"
+   text-time="2008-01-24T12:45:53.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="fa52113e13b0ddce6e12337551ff1348"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:45:53.000000Z"/>
+</wc-entries>

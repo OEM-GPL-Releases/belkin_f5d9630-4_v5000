@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2007-07-10T10:34:01.610987Z"
+   url="svn://10.5.1.123/belkin9630v5/release_version/5.00.13_AU/src/userapps/opensource/atm2684/atm"
+   last-author="alex"
+   kind="dir"
+   uuid="ed9188f2-e334-0410-83fa-ad071bb174ad"
+   revision="100"/>
+<entry
+   committed-rev="3"
+   name="atm.patch"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="0bd3a2ff02dc1e4ac4a8ffc06d31f1ab"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="VERSION"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="cfba5c850d231c99dfe930fed2ce3b02"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   name="debug"
+   kind="dir"/>
+<entry
+   name="arpd"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="mkpatch"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="717c649ae2c53f9ec26bd01677df8a4e"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="mkdist"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="f3bed13ce70a4804521e7b1016c4bcae"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="CREDITS"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="fa1087e338fb9bf1e3c9c69c45d11ae7"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="BUGS"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="12a032cc4b4b6e071e68660bb61be17f"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   committed-rev="3"
+   name="mkdiff"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="3017b3048ec70a2cb4f1db827d1cc005"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:00.000000Z"/>
+<entry
+   name="led"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="COPYING.LGPL"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="6e29c688d912da12b66b73e32b03d812"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="COPYING"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="38ccbc23cee1be6a43cea7f3b8c08d22"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="CHANGES"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="e9c2aff789ef3ccd4934f526f97e9fba"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   name="man"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="555928c52d9e7a5301cd5d3ac0c6ad99"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   name="rt2684d"
+   kind="dir"/>
+<entry
+   name="lane"
+   kind="dir"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   name="saal"
+   kind="dir"/>
+<entry
+   name="extra"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="mkbindist"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="982f08f2c46ef7622e10430345c30281"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:01.000000Z"/>
+<entry
+   name="sigd"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="COPYING.GPL"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ac2db169b9309e240555bc77be4f1a33"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   name="qgen"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="README"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="572a06adf2df6e6db3d9332a7f5f696a"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   name="ilmid"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name=".kernel"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="ea26f3a9d702c951ca4a175cac306076"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   name="mpoad"
+   kind="dir"/>
+<entry
+   name="switch"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="USAGE"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="af6b94edc5fedca2ea84ec9ba14ca7ba"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   name="config"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="Rules.make"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="8edc949d8608e65735a8776403498122"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+<entry
+   name="maint"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="README.DRIVERS"
+   text-time="2008-01-24T12:46:02.000000Z"
+   committed-date="2007-07-10T10:34:01.610987Z"
+   checksum="6fdbcf8f8391dbd6e45c5ac21875658b"
+   last-author="alex"
+   kind="file"
+   prop-time="2008-01-24T12:46:02.000000Z"/>
+</wc-entries>

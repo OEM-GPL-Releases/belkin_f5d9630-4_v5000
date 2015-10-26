@@ -1,0 +1,63 @@
+<HTML>
+<HEAD>
+<meta HTTP-EQUIV='Pragma' CONTENT='no-cache'>
+<link rel="stylesheet" href="main_router.css" type='text/css'>
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache, must-revalidate">
+<META HTTP-EQUIV="expires" CONTENT="0">
+
+<%ejGet("curLanguage")%>
+<SCRIPT>
+<!--
+assign_var();
+strHtml='<title>'+wlwps_24+'</title>';
+dw(strHtml);
+-->
+</SCRIPT>
+</HEAD>
+<BODY>
+<center>
+<script>
+<!--
+var WPSState = '<%ejGetWl(wlWPSState)%>';
+
+if(WPSState == '3')
+{
+	dw(wlwps_25);
+	dw('<p><input type=button style="{width:160px;}" name="cancel" value="'+wlwps_33+'" class="submitBtn" onclick="javascript:window.close();window.opener.focus();window.opener.document.Form_WPS_STOP.submit();">');
+}
+else
+if(WPSState == '34')
+{
+	dw(wlwps_26);
+	dw('<p><input type=button style="{width:160px;}" name="ok" value="'+wlwps_31+'" class="submitBtn" onclick="javascript:window.close();window.opener.focus();">');
+}
+else
+if((WPSState > '3') && (WPSState < '34'))
+{
+	dw(wlwps_27);
+}
+else
+if((WPSState == '1') || (WPSState == '2'))
+{
+	dw(wlwps_28);
+	dw('<p><input type=button style="{width:160px;}" name="close" value="'+wlwps_32+'" class="submitBtn" onclick="javascript:window.close();window.opener.focus();window.opener.document.Form_WPS_STOP.submit();">');
+}
+else
+{
+	dw(wlwps_28);
+	dw('<p><input type=button style="{width:160px;}" name="close" value="'+wlwps_32+'" class="submitBtn" onclick="javascript:window.close();window.opener.focus();window.opener.document.Form_WPS_STOP.submit();">');
+}
+
+if(WPSState != '34' && WPSState != '1')
+{
+	setTimeout('location.replace("wireless_wps_info.html")', 1000); 
+}
+-->
+</script>
+<!--P>
+<input type=button style="{width:160px;}" name="start_pbc" value="close" class="submitBtn" onclick="javascript:window.close();window.opener.focus();"-->
+
+
+</center>
+
+</BODY></HTML>

@@ -1,0 +1,429 @@
+<html>
+   <head>
+      <meta HTTP-EQUIV='Pragma' CONTENT='no-cache'>
+		 <link rel="stylesheet" href="main_router.css" type='text/css'>
+		 
+		<%ejGet("curLanguage")%>
+		<SCRIPT>assign_var();</SCRIPT>
+
+            <script language="javascript" src="util.js"></script>
+			<SCRIPT language=JavaScript src="showMenu.js"></SCRIPT>
+            <script language="javascript">
+<!-- hide
+strHtml='<title>'+wlm_1+' &gt; '+wlwps_1+'</title>';
+dw(strHtml);
+
+var autoup = '<%ejGet(autoUpgrade_flag)%>';
+
+if(autoup == '1')
+{
+	newwin=window.open("checkfw.html","Firmware","toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,width=395,height=200,resizable=0");
+	newwin.focus();
+}
+
+
+
+var ssid = '<%ejGetWl(wlSsid)%>';
+var mode = '<%ejGetWl(wlAuthMode)%>';
+var wep = '<%ejGetWl(wlWep)%>';
+var bit = '<%ejGetWl(wlKeyBit)%>';
+
+var keyIdx = '<%ejGetWl(wlKeyIndex)%>';
+var wepkeys1 = '<%ejGetWl(wlKey1)%>'
+var wepkeys2 = '<%ejGetWl(wlKey2)%>'
+var wepkeys3 = '<%ejGetWl(wlKey3)%>'
+var wepkeys4 = '<%ejGetWl(wlKey4)%>'
+var wpaPskKey = '<%ejGetWl(wlWpaPsk)%>';
+var wpa = '<%ejGetWl(wlWpa)%>';
+
+var rt_pincode = '<%ejGetWl(wlRTPinCode)%>';
+
+
+function frmLoad()
+{
+	document.forms[0].wps_mode.selectedIndex = 1;
+	write_menual_table();
+}
+
+
+function write_menual_table()
+{
+	var info="<table width=\"588\" border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n";
+	info += "<Tr>\n<td width=\"2\"></td>\n";
+	info += "<Td width=\"171\" class=\"copy_1\"><b>"+wlwps_16+"</b></Td>";
+	info += "<Td width=\"391\" class=\"copy_1\">"+ssid+"</Td>";
+	info += "</Tr>\n";
+	
+	if(mode == 'open')
+	{
+		if(wep == 'disabled')
+		{
+			info += "<Tr>\n<td width=\"2\"></td>\n";
+			info += "<Td width=\"171\" class=\"copy_1\"><b>"+wlwps_17+":</b></Td>\n";
+			info += "<Td width=\"391\" class=\"copy_1\">"+wlwps_22+"\n</Td>\n</Tr>\n";
+			info += "<Tr>\n<td width=\"2\"></td>\n";
+			info += "<Td></Td>\n<Td width=\"404\" class=\"copy_1\">"+wlwps_23;
+			info += "<a href=\"wireless_encrypt.html\"><font color=\"#0066FF\">&nbsp;<B>"+wlwps_17+"</B></font></a></Td>\n";
+			info += "</Tr>\n";
+		}
+		else
+		{
+			info += "<Tr>\n<td width=\"2\"></td>\n<Td width=\"171\" class=\"copy_1\"><b>\n";
+			info += wlwps_17+":</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlwps_21+"</Td>\n";
+			info += "</Tr>\n";
+			info += "<Tr>\n<td width=\"2\"></td>\n<Td width=\"171\" class=\"copy_1\"><b>\n";
+			info += wlwps_18+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlcs_14+"</Td>\n";
+			info += "</Tr>\n";
+			info += "<Tr>\n<td width=\"2\"></td>\n<Td width=\"171\" class=\"copy_1\"><b>\n";
+			info += wlwps_19+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">WEP</Td>\n";
+			info += "</Tr>\n";
+			info += "<Tr>\n<td width=\"2\"></td>\n<Td width=\"171\" class=\"copy_1\"><b>\n";
+			info += wlwps_20+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">";
+			
+			if(bit == '0')			// 128 bit
+				info += wepkeys1;
+			else 					// 64 bit	
+			{
+				if(keyIdx == '1')
+					info += wepkeys1;
+				else if(keyIdx == '2')	
+					info += wepkeys2;
+				else if(keyIdx == '3')	
+					info += wepkeys3;
+				else if(keyIdx == '4')	
+					info += wepkeys4;			
+			}	
+			info += "</Td>\n</Tr>\n";							
+		}
+	}
+	else if(mode == 'psk')
+	{
+		info += "<Tr>\n<td width=\"2\"></td>\n<Td width=\"171\" class=\"copy_1\"><b>\n";
+		info += wlwps_17+":</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlwps_21+"</Td>\n";
+		info += "</Tr>\n";
+		info += "<Tr>\n<td width=\"2\"></td>\n<Td width=\"171\" class=\"copy_1\"><b>\n";
+		info += wlwps_18+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlswp_5+"</Td>\n";
+		info += "</Tr>\n";
+		info += "<Tr>\n<td width=\"2\"></td><Td width=\"171\" class=\"copy_1\"><b>\n";
+		info += wlwps_19+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlswp_2+"</Td>\n";
+		info += "</Tr>\n";
+		info += "<Tr>\n<td width=\"2\"></td><Td width=\"171\" class=\"copy_1\"><b>\n";
+		info += wlwps_20+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wpaPskKey+"</Td>\n";
+		info += "</Tr>\n";
+	}
+	else if(mode == 'psk2')
+	{
+		info += "<Tr>\n<td width=\"2\"></td>\n<Td width=\"171\" class=\"copy_1\"><b>\n";
+		info += wlwps_17+":</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlwps_21+"</Td>\n";
+		info += "</Tr>\n";
+		info += "<Tr>\n<td width=\"2\"></td>\n<Td width=\"171\" class=\"copy_1\"><b>\n";
+		info += wlwps_18+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlswp_6+"</Td>\n";
+		info += "</Tr>\n";
+		info += "<Tr>\n<td width=\"2\"></td><Td width=\"171\" class=\"copy_1\"><b>\n";
+		info += wlwps_19+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlswp_3+"</Td>\n";
+		info += "</Tr>\n";
+		info += "<Tr>\n<td width=\"2\"></td><Td width=\"171\" class=\"copy_1\"><b>\n";
+		info += wlwps_20+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wpaPskKey+"</Td>\n";
+		info += "</Tr>\n";
+	}
+	else if(mode =='psk2mix')
+	{
+		info += "<Tr>\n<td width=\"2\"></td>\n<Td width=\"171\" class=\"copy_1\"><b>\n";
+		info += wlwps_17+":</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlwps_21+"</Td>\n";
+		info += "</Tr>\n";
+		info += "<Tr>\n<td width=\"2\"></td>\n<Td width=\"171\" class=\"copy_1\"><b>\n";
+		info += wlwps_18+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlswp_5+"+"+wlswp_6+"</Td>\n";
+		info += "</Tr>\n";
+		info += "<Tr>\n<td width=\"2\"></td><Td width=\"171\" class=\"copy_1\"><b>\n";
+		
+		if(wpa=='tkip')
+			info += wlwps_19+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlswp_2+"</Td>\n";
+		else if(wpa=='aes')	
+			info += wlwps_19+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlswp_3+"</Td>\n";
+		else
+			info += wlwps_19+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wlswp_2+"+"+wlswp_3+"</Td>\n";
+			
+		info += "</Tr>\n";
+		info += "<Tr>\n<td width=\"2\"></td><Td width=\"171\" class=\"copy_1\"><b>\n";
+		info += wlwps_20+"</b></Td>\n<Td width=\"391\" class=\"copy_1\">"+wpaPskKey+"</Td>\n";
+		info += "</Tr>\n";	
+	}
+	
+	info += "</table>";	
+	document.getElementById('manual_table').innerHTML = info;
+}
+								
+							
+function write_wps()
+{
+	with(document.forms[0])
+	{
+		document.write("<option value=\"0\">"+home_44+"</option>");
+		document.write("<option value=\"1\">"+home_43+"</option>");
+	}
+}
+
+function wps_mode_change()
+{
+	with(document.forms[0])
+	{
+		if(wps_mode.selectedIndex == 0)
+			window.location.href = 'wireless_wps_disabled.html';
+	}
+}
+
+function btnApply()
+{
+	var loc;
+	loc= 'wlwps.wl?WPS_State=1';
+   	var code = 'location="' + loc + '"';
+   	eval(code);
+}
+
+function ValidateWPSChecksum(WPSPIN)
+{
+ if(WPSPIN.length<8)
+  	return false;
+
+ if(WPSPIN==0|| WPSPIN=='')
+ 	return false;
+
+ accum=0;	
+ for (i=0 ;i<8;i++)
+ {
+ 	//alert(i);
+    PIN=WPSPIN.charAt(i);
+	
+	if(PIN=='0')
+		PIN=0;
+	else
+		PIN=parseInt(PIN,10);
+		
+	//alert(PIN);
+    if( (i%2)==0)
+	{	
+	 accum+=3 *PIN ;
+	}
+	else
+	{
+	 accum+=1 *PIN;
+	}
+	
+		 //alert(accum);
+ }//end-of-for
+ return (0 == (accum % 10));
+}
+
+function set_enroll()
+{
+	
+	with(document.forms[0])
+	{		
+		var PIN = wps_pin.value;
+		
+		for (i=0 ;i<8;i++)
+		{
+			var data = PIN.match(/[^0-9]/g);
+			
+			if (data || PIN.length < 8)
+			{
+				var message = window.open('','Error_message','alwaysRaised,resizable,scrollbars,width=600,height=150');
+				var m = '<title>'+wlwps_24+'</title><center><br>'+wlwps_29+
+				'<br><br><input type=button style="{width:160px;}" name="close" value="'+wlwps_32+'" onclick="window.close();window.opener.document.wps_pin.focus();">'+
+				'</center>';
+				message.document.write(m);
+				return false;
+			}
+		}
+
+		if(!ValidateWPSChecksum(PIN))
+		{
+			var message2 = window.open('','Error_message2','alwaysRaised,resizable,scrollbars,width=600,height=150');
+			var m2 = '<title>'+wlwps_24+'</title><center><br>'+wlwps_30+
+				'<br><br><input type=button style="{width:160px;}" name="close" value="'+wlwps_32+'" onclick="window.close();window.opener.document.wps_pin.focus();">'+
+				'</center>';
+			message2.document.write(m2);
+			return false;
+		}
+		
+		var loc= 'wlwpspin.wl?WPS_State=1&wlPinCode='+PIN;
+	}
+
+   	var code = 'location="' + loc + '"';
+   	eval(code);
+
+	self.open('wireless_wps_info.html','WPS_STATUS','alwaysRaised,resizable,scrollbars,width=600,height=150').focus();
+
+}
+
+
+function Gen_new_pin()
+{
+	var loc;
+	loc= 'wlwpsGenPin.wl?wlGenRTPIN=1';
+   	var code = 'location="' + loc + '"';
+   	eval(code);
+}
+
+function Restore_pin()
+{
+	var loc;
+	loc= 'wlwpsGenPin.wl?wlRestRTPIN=1';
+   	var code = 'location="' + loc + '"';
+   	eval(code);
+}
+
+function Push_Button()
+{	
+	var loc;
+	loc= 'wlwpspbc.wl?WPS_State=1&wlPushButton=1';
+   	var code = 'location="' + loc + '"';
+   	eval(code);
+	self.open('wireless_wps_info.html','WPS_STATUS','alwaysRaised,resizable,scrollbars,width=600,height=150').focus();
+}
+
+// done hiding -->
+      </script>
+   <title>Wireless &gt; Channel and SSID</title></head>
+   <body onLoad='frmLoad()' bgColor="#ffffff" leftMargin="0" topMargin="0" marginheight="0" marginwidth="0">
+         <form onSubmit='return false'>
+       <SCRIPT language=JavaScript>
+	var helpItem 	='WPS';
+	var menuSection	='WLAN';
+	var menuItem	='WPS';
+	var isAPmode = '<%ejGet(enblNat)%>';
+		
+	var wanStatus = '<%ejGetOther(isUp)%>';
+	showHead(wanStatus,helpItem);
+	showMenu(menuSection,menuItem,isAPmode)
+	</SCRIPT>  
+<TD class=head_bold width="90%" valign="top"><Br>
+            <b><font class="head_bold">&nbsp;&nbsp;<script>dw(wlm_1);</script> &gt; <script>dw(wlwps_1);</script></font></b>
+            <br><br>
+			
+      		<TABLE class=copy_1 cellSpacing=0 cellPadding=0 width=790  border=0>
+				
+				<Tr>
+					<td width="42"></td>
+					<Td width="748">
+						<Br>
+						<!--   WPS CONTENT BEGIN    -->					
+						<table width="587" border="0" cellpadding="4" cellspacing="0">				
+               				<tr>
+               				  <td width="217" class="copy_1"><B><script>dw(wlwps_1);</script></B></td>
+               					 <td td width="313" class="copy_1"><select name='wps_mode'  onChange="wps_mode_change()"><script>write_wps()</script></select></td>
+               				</tr>
+							
+							<Tr>
+								<Td colspan="2" class="copy_1"><script>dw(wlwps_2);</script></Td>
+							</Tr>
+							
+							<Tr>
+								<Td colspan="2" align="right"><script>
+									var info ="<input type='button' style='height:22px;width:180px;' class='submitBtn' onClick='btnApply()' value='"+wd_10+"'>";										
+									dw(info);</script>								
+								</Td>
+							</Tr>
+
+							<Tr>
+								<Td colspan="2" align="right"><Br><hr noshade size="1" color="#666666"></Td>
+							</Tr>
+							
+							
+				      </table>
+					    <!--   WPS CONTENT END    -->	
+						
+						<!--   PIN METHOD BEGIN    -->	
+						<table width="615" border="0" cellpadding="4" cellspacing="0">
+							<Tr>
+								<Td class="copy_1" colspan="3"><B>1)<script>dw(wlwps_3);</script></B></Td>
+							</Tr>						
+							
+							<tr>
+								<Td class="copy_1" colspan="3"><script>dw(wlwps_4);</script></Td>
+							</tr>
+							
+							<Tr>
+							  <Td width="307" class="copy_1"><script>dw(wlwps_5);</script></Td>
+							  <td width="245"><input type="text" maxlength="8" size="20" name="wps_pin"></td>
+								<td width="39"><script>
+									var info ="<input type='button' style='height:22px;width:180px;' class='submitBtn' onClick='set_enroll()' value='"+wlwps_7+"'>";										
+									dw(info);</script>
+							  </td>
+							</Tr>
+
+							<tr>
+								<Td class="copy_1" colspan="3"><script>dw(wlwps_6);</script></Td>
+							</tr>
+						</table>
+
+						<table width="588" height="35" border="0" cellpadding="4" cellspacing="0">
+							<Tr>
+							  <Td width="270" class="copy_1"><b><script>dw(wlwps_11+'&nbsp;'+rt_pincode);</script></b></Td>
+							  <td width="282">
+							  		<script>
+									var info ="<input type='button' style='height:22px;width:180px;' class='submitBtn' onClick='Gen_new_pin()' value='"+wlwps_8+"'>";										
+									dw(info);
+									</script>
+							  </td>
+							  <td width="39">
+							  		<script>
+									var info ="<input type='button' style='height:22px;width:180px;' class='submitBtn' onClick='Restore_pin()' value='"+wlwps_9+"'>";										
+									dw(info);
+									</script>
+							  </td>
+							</Tr>							
+							<Tr>
+								<Td colspan="3" align="right"><Br><hr noshade size="1" color="#666666"></Td>
+							</Tr>
+													
+					  </table>
+						<!--   PIN METHOD END    -->
+
+						<!--   PBC METHOD BEGIN    -->	
+						<table width="588" border="0" cellpadding="4" cellspacing="0">
+							<Tr>
+								<Td class="copy_1" colspan="3"><B>2)<script>dw(wlwps_12);</script></B></Td>
+							</Tr>						
+
+							<Tr>
+								<Td class="copy_1" colspan="3"><script>dw(wlwps_13);</script></Td>
+							</Tr>						
+
+							<Tr>
+								<Td class="copy_1" colspan="3" align="right">
+							  		<script>
+									var info ="<input type='button' style='height:22px;width:180px;' class='submitBtn' onClick='Push_Button()' value='"+wlwps_10+"'>";										
+									dw(info);
+									</script>								
+								</Td>
+							</Tr>						
+							<Tr>
+								<Td colspan="3" align="right"><Br><hr noshade size="1" color="#666666"></Td>
+							</Tr>
+
+					  	</table>
+						<!--   PBC METHOD END    -->
+				
+						<!--   Manual METHOD BEGIN    -->	
+						<table width="588" border="0" cellpadding="4" cellspacing="0">
+							<Tr>
+								<Td class="copy_1" colspan="3"><B>3)<script>dw(wlwps_14);</script></B></Td>
+							</Tr>				
+							
+							<Tr>
+								<Td class="copy_1" colspan="3"><script>dw(wlwps_15);</script></Td>
+							</Tr>				
+						</table>
+						
+						<div id='manual_table'></div>
+						<!--   Manual METHOD END    -->
+				  </Td>
+				</Tr>
+	</TABLE>
+            <br>
+         </TD></TR></TBODY></TABLE></TD></form>
+		 <form name="Form_WPS_STOP" action="post.cgi" method="post">
+		 <input type="hidden" name="page" value="wlwps">
+   </body>
+</html>
